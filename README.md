@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with AI, TypeScript
 - 💬 Ask me about java maybe..?
 - 📫 How to reach me: email me (link below)
-- 😄 Pronouns: 
+- 😄 Pronouns: give me recommendations
 - ⚡ Fun fact: ask olaf :D
     > Olaf: Water has memory.  
     > Olaf: Turtles breathe through their butts.  
