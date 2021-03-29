@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+- 🐶 I can use Java, C, SQL, Python
+- 🔭 I’m currently working on myself - WebProject, Algorithm, AI
+- 🌱 I’m currently learning TypeScript, React, Express, DataScience & AI
+- 🐾 I'm interested in Rust, GO, ASP.NET CORE
+- 👯 I’m looking to collaborate on Web Projects
+- 🤔 I’m looking for help with AI, TypeScript
+- 💬 Ask me about java maybe..?
+- 📫 How to reach me: email me (link below)
+- 😄 Pronouns: 
+- ⚡ Fun fact: ask olaf :D
+    > Olaf: Water has memory.  
+    > Olaf: Turtles breathe through their butts.  
+    > Olaf: Men are 6 times more likely to be struck by lightning than women.  
+    > Olaf: People blink 4 million times a day.  
+    > Olaf: Wombats poop in squares.  
 
 <table>
     <tr>
