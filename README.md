@@ -24,7 +24,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjbdev&theme=dark" alt="parkjbdev" /> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
 **🐱 My Github Data** 
 
