@@ -24,11 +24,11 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjbdev&theme=dark" alt="parkjbdev" /> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 214 Contributions in the Year 2021
+> 🏆 216 Contributions in the Year 2021
  > 
 > 📦 40.5 kB Used in Github's Storage 
  > 
