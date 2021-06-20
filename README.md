@@ -24,7 +24,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjbdev&theme=dark" alt="parkjbdev" /> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -105,5 +105,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2021
+ Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
