@@ -30,7 +30,7 @@
 
 > 🏆 232 Contributions in the Year 2021
  > 
-> 📦 13.6 kB Used in Github's Storage 
+> 📦 13.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,5 +109,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
