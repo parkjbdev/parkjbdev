@@ -106,5 +106,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/08/2021
+ Last Updated on 26/08/2021
 <!--END_SECTION:waka-->
