@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Express, React, AI**
 
-- 📝 I regularly write articles on [github.parkjb.com](https://github.parkjb.com)
+- 📝 I regularly write articles on [velog](https://velog.io/@parkjbdev)
 
 - 💬 Ask me about **java**
 
