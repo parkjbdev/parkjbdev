@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm JongBeum Park</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parkjbdev&row=1&column=7" alt="parkjbdev" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript, Express, React, AI**
 
