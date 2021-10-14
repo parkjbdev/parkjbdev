@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JongBeum%20Park&desc=Welcome%20to%20my%20Github!&fontAlign=66&fontAlignY=35&descAlign=83&descAlignY=55&animation=fadeIn)
 
 ## Hi There! 👋
-My name is JongBeum Park, and I'm a growing developer🌱 I wanna make everyone's life better and easier by development
+I'm JongBeum Park, a growing developer🌱
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
