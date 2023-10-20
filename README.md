@@ -2,6 +2,7 @@
 
 ## Hi There! 👋
 I'm JongBeum Park, a growing developer🌱
+Currently interested in.. System Development
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
