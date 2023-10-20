@@ -2,6 +2,7 @@
 
 ## Hi There! 👋
 I'm JongBeum Park, a growing developer🌱
+
 Currently interested in.. System Development
 
 ## Programming Languages
