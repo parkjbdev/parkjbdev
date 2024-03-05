@@ -50,14 +50,11 @@ Currently interested in.. System Development
 [![Mail](https://img.shields.io/badge/mail-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:dev@parkjb.com)
 
 ## Interested in
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white)
+[![arm](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://arm.com)
 [![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white)](https://apple.com)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=LLVM&logoColor=white)
-[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white)](https://redhat.com)
-[![arm](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://arm.com)
 [![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)](https://www.tesla.com)
-[![Bentley](https://img.shields.io/badge/Bentley-333333?style=for-the-badge&logo=Bentley&logoColor=white)](https://www.bentleymotors.com)
-[![Porsche](https://img.shields.io/badge/Porsche-B12B28?style=for-the-badge&logo=Porsche&logoColor=white)](https://www.porsche.com)
 
 ## Wakatime Stats
 <!--START_SECTION:waka-->
