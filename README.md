@@ -58,3 +58,7 @@ Currently interested in.. System Development
 [![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)](https://www.tesla.com)
 [![Bentley](https://img.shields.io/badge/Bentley-333333?style=for-the-badge&logo=Bentley&logoColor=white)](https://www.bentleymotors.com)
 [![Porsche](https://img.shields.io/badge/Porsche-B12B28?style=for-the-badge&logo=Porsche&logoColor=white)](https://www.porsche.com)
+
+## Wakatime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
