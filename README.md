@@ -17,12 +17,8 @@ Currently interested in.. System Development
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=NextUI&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=Bun&logoColor=white)
 
 ## Severs & Databases
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -34,7 +30,6 @@ Currently interested in.. System Development
 
 ## Environments & Tools
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
@@ -46,7 +41,6 @@ Currently interested in.. System Development
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jong-beum-park-298b6a1b0)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/parkjbdev)
 [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14824006/parkjbdev)
-[![Velog](http://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@parkjbdev)
 [![Mail](https://img.shields.io/badge/mail-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:dev@parkjb.com)
 
 ## Interested in
