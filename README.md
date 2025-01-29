@@ -14,7 +14,7 @@
 - 아주대학교 전자공학과 학사 (2018.03 ~ 2025.02)
 - 아주대학교 소프트웨어학과 학사 (2018.03 ~ 2025.02)
 
-### 🛠️ 기술스택
+### 🛠️ 스킬
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -24,6 +24,7 @@
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=%2361DAFB)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
