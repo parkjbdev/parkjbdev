@@ -1,6 +1,7 @@
 ## 안녕하세요 박종범입니다 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjbdev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/6f2f57ae-ce04-4c16-80e7-660166fb783d.svg)](https://wakatime.com/@6f2f57ae-ce04-4c16-80e7-660166fb783d)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkjbdev)](https://solved.ac/parkjbdev)
 
@@ -29,6 +30,16 @@
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 
+<details>
+  <summary><h3>⏱️ 개발통계</h3></summary>
+  <img src="https://wakatime.com/share/@parkjbdev/27cfaaee-6ea0-48a4-ab4a-e8649ada0e11.svg" width="650px" />
+  <img src="https://wakatime.com/share/@parkjbdev/6e7d7fbb-1339-4a7a-b872-ad94369a0655.svg" width="650px" />
+  <img src="https://wakatime.com/share/@parkjbdev/129151e9-fc1e-4e65-bb66-b2283c602260.svg" width="650px" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+
 <!--
 <hr/>
 
@@ -49,5 +60,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
