@@ -29,6 +29,7 @@
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 
+<!--
 <hr/>
 
 **Server Powered by**
@@ -38,6 +39,7 @@
 ![PM2](https://img.shields.io/badge/PM2-2b037a?style=flat-square&logo=PM2&logoColor=white)
 ![Route53](https://img.shields.io/badge/Route53-8c4fff?style=flat-square&logo=Amazon%20Route%2053&logoColor=white)
 ![Lenovo](https://img.shields.io/badge/Lenovo-e2231a?style=flat-square&logo=Lenovo&logoColor=white)
+-->
 
 <!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
