@@ -4,17 +4,17 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkjbdev)](https://solved.ac/parkjbdev)
 
-### 경력
+### 💻 경력
 - 한양대학교 의과대학 (2020.03 ~ 2020.08)
 - 한양대학교의료원 정보관리팀 (2022.07 ~ 2022.12)
 - 아주대학교 [System Software Lab](https://sslab.ajou.ac.kr/) 인턴 (2023.07 ~ 2025.02)
 
-### 교육
+### ✏️ 교육
 - 삼성 청년 SW 아카데미 (SSAFY) 13기 (2025.01 ~ )
 - 아주대학교 전자공학과 학사 (2018.03 ~ 2025.02)
 - 아주대학교 소프트웨어학과 학사 (2018.03 ~ 2025.02)
 
-### 기술스택
+### 🛠️ 기술스택
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
