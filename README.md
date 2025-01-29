@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JongBeum%20Park&desc=Welcome%20to%20my%20Github!&fontAlign=66&fontAlignY=35&descAlign=83&descAlignY=55&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JongBeum%20Park&desc=Welcome%20to%20my%20Github!&fontAlign=66&fontAlignY=35&descAlign=83&descAlignY=55&animation=fadeIn) -->
 
 ## Hi There! 👋
 I'm JongBeum Park, a growing developer🌱
 
-Currently interested in.. System Development
+Currently interested in.. Spring Framework
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
