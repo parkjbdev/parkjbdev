@@ -31,7 +31,7 @@
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 
 <details>
-  <summary><h3>⏱️ 개발통계</h3></summary>
+  <summary><h3>📊 개발통계</h3></summary>
   <!--
   <img src="https://wakatime.com/share/@parkjbdev/27cfaaee-6ea0-48a4-ab4a-e8649ada0e11.svg" width="650px" />
   <img src="https://wakatime.com/share/@parkjbdev/6e7d7fbb-1339-4a7a-b872-ad94369a0655.svg" width="650px" />
