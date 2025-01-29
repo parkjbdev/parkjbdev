@@ -1,4 +1,9 @@
 ## 안녕하세요 박종범입니다 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjbdev%2Fparkjbdev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkjbdev)](https://solved.ac/parkjbdev)
+
 ### 경력
 - 한양대학교 의과대학 (2020.03 ~ 2020.08)
 - 한양대학교의료원 정보관리팀 (2022.07 ~ 2022.12)
@@ -10,31 +15,36 @@
 - 아주대학교 소프트웨어학과 학사 (2018.03 ~ 2025.02)
 
 ### 기술스택
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59?logo=express&logoColor=%2361DAFB)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8c4fff?logo=Amazon%20Route%2053&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=macOS&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white)
-![Neovim](https://img.shields.io/badge/neovim-57A143?logo=Neovim&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 
-### 소셜
-- 이메일: [dev@parkjb.com](mailto:dev@parkjb.com)
-- 링크드인: [@parkjbdev](https://linkedin.com/in/parkjbdev/)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+
+<hr/>
+
+**Server Powered by**
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2b037a?style=flat-square&logo=PM2&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8c4fff?style=flat-square&logo=Amazon%20Route%2053&logoColor=white)
+![Lenovo](https://img.shields.io/badge/Lenovo-e2231a?style=flat-square&logo=Lenovo&logoColor=white)
+
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
