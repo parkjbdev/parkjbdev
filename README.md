@@ -31,11 +31,6 @@
 ![Neovim](https://img.shields.io/badge/neovim-57A143?logo=Neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 
-### 주요 프로젝트
-- [parkjbdev/cosmos](https://github.com/parkjbdev/cosmos)
-- [parkjbdev/WePlan](https://github.com/parkjbdev/WePlan)
-- [parkjbdev/cookie](https://github.com/parkjbdev/cookie)
-
 ### 소셜
 - 이메일: [dev@parkjb.com](mailto:dev@parkjb.com)
 - 링크드인: [@parkjbdev](https://linkedin.com/in/parkjbdev/)
