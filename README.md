@@ -1,4 +1,4 @@
-## 안녕하세요 박종범이예요 👋
+## 안녕하세요 박종범입니다 👋
 ### 경력
 - 한양대학교 의과대학 (2020.03 ~ 2020.08)
 - 한양대학교의료원 정보관리팀 (2022.07 ~ 2022.12)
@@ -36,9 +36,9 @@
 - [parkjbdev/WePlan](https://github.com/parkjbdev/WePlan)
 - [parkjbdev/cookie](https://github.com/parkjbdev/cookie)
 
-### 연락처
-- [Email](mailto:dev@parkjb.com)
-- [Linkedin](https://linkedin.com/in/parkjbdev/)
+### 소셜
+- 이메일: [dev@parkjb.com](mailto:dev@parkjb.com)
+- 링크드인: [@parkjbdev](https://linkedin.com/in/parkjbdev/)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
