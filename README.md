@@ -1,11 +1,14 @@
-## Hi, I'm JongBeum Park 👋
+## 안녕하세요 박종범이예요 👋
+### 경력
+- 한양대학교 의과대학 (2020.03 ~ 2020.08)
+- 한양대학교의료원 정보관리팀 (2022.07 ~ 2022.12)
 
-### Educations
-- Samsung Software Academy for Youth 13th (2025.01~)
-- Bachelor's degree of Electronics and Computer Engineering, Ajou University (2018.03 ~ 2025.02)
-- Bachelor's degree of Software, Ajou University (2018.03 ~ 2025.02)
+### 교육
+- 삼성 청년 SW 아카데미 (SSAFY) 13기 (2025.01~)
+- 아주대학교 전자공학과 학사 (2018.03 ~ 2025.02)
+- 아주대학교 소프트웨어학과 학사 (2018.03 ~ 2025.02)
 
-### Tech Stack
+### 기술스택
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
@@ -28,12 +31,12 @@
 ![Neovim](https://img.shields.io/badge/neovim-57A143?logo=Neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 
-### Projects
+### 주요 프로젝트
 - [parkjbdev/cosmos](https://github.com/parkjbdev/cosmos)
 - [parkjbdev/WePlan](https://github.com/parkjbdev/WePlan)
 - [parkjbdev/cookie](https://github.com/parkjbdev/cookie)
 
-### Contacts
+### 연락처
 - [Email](mailto:dev@parkjb.com)
 - [Linkedin](https://linkedin.com/in/parkjbdev/)
 
