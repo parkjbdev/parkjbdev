@@ -43,7 +43,7 @@
 
 > 📦 GitHub의 516.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 0 만큼의 Contributions을 2025년에 했어요
+> 🏆 170 만큼의 Contributions을 2025년에 했어요
  > 
 > 💼 구직중이에요.
  > 
@@ -103,7 +103,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 15:16:03 UTC
+ Last Updated on 09/02/2025 15:16:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
