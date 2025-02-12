@@ -109,6 +109,9 @@ Java                     2 repos             ██░░░░░░░░░�
 
  Last Updated on 11/02/2025 15:20:18 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
+
 </details>
 
 
