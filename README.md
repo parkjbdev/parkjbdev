@@ -43,6 +43,8 @@
 
 > 📦 GitHub의 531.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
+> 🏆 575 만큼의 Contributions을 2025년에 했어요
+ > 
 > 💼 구직중이에요.
  > 
 > 📜 41개의 Public Repository를 만들었어요. 
@@ -103,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 15:19:19 UTC
+ Last Updated on 01/06/2025 15:18:53 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
