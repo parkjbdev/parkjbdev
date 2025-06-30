@@ -41,7 +41,7 @@
   <!--START_SECTION:waka-->
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 549.7 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 549.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🏆 604 만큼의 Contributions을 2025년에 했어요
  > 
@@ -105,7 +105,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 15:20:11 UTC
+ Last Updated on 30/06/2025 15:23:36 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
