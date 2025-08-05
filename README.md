@@ -67,16 +67,16 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 1 min               █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Neovim                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+simple-portfolio         1 min               █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -96,7 +96,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 15:24:55 UTC
+ Last Updated on 05/08/2025 15:25:51 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
