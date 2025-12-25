@@ -67,16 +67,16 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -96,7 +96,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 15:23:23 UTC
+ Last Updated on 25/12/2025 15:22:00 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
