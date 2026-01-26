@@ -67,10 +67,12 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+JSON                     0 secs              █████████████████░░░░░░░░   69.29 % 
+Markdown                 0 secs              ████████░░░░░░░░░░░░░░░░░   30.71 % 
 
 🔥 에디터들: 
-Obsidian                 0 secs              █████████████████████████   100.00 % 
+Neovim                   0 secs              █████████████████░░░░░░░░   69.29 % 
+Obsidian                 0 secs              ████████░░░░░░░░░░░░░░░░░   30.71 % 
 
 🐱‍💻 프로젝트들: 
 Unknown Project          0 secs              █████████████████████████   100.00 % 
@@ -96,7 +98,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/parkjbdev/parkjbdev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 15:22:29 UTC
+ Last Updated on 26/01/2026 15:30:53 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parkjbdev&theme=github-compact&color=FFFFFF&hide_border=true&days=35&bg_color=010409&radius=8"/>
